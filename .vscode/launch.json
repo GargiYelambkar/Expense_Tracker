@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch ExpenseTracker",
+        "request": "launch",
+        "mainClass": "ExpenseTracker",
+        "classpath": [
+          "${workspaceFolder}/lib/mysql-connector-java-8.0.xx.jar"
+        ]
+      }
+    ]
+  }
